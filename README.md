@@ -1,4 +1,4 @@
-# oldbaby.github.io
+# oldbabygame
 BrightMine工作室游戏开发
 
-https://yalisandsoso.github.io/oldbaby.github.io/
+https://yalisandsoso.github.io/oldbabygame
